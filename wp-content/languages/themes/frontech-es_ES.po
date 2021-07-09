@@ -1,0 +1,224 @@
+# Translation of Themes - Frontech in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Frontech package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-18 11:07:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Frontech\n"
+
+#. Description of the theme
+msgid "Frontech is Responsive Multi-Purpose CSS3 Theme. Frontech is Created with Twitter Bootstrap 3.3 Framework. Frontech is a great design idea for website of Creative Corporate, Corporation, Company Profile, Personal Portfolio, and more … Create Outstanding Website or Blog in Minutes!. Awesome Design, Unique Concepts, Scalable Responsive, Amazing flexibility, 3 colorscheme & Many More Features…"
+msgstr "Frontech es un tema CSS3 multipropósito adaptable. Frontech se creó con el framework Bootstrap 3.3 de Twitter. Frontech es una gran idea de diseño para webs de creatividad empresarial, corporaciones, perfiles de empresas, porfolio personal y más... ¡Crea una web o blog excepcional en minutos! Diseño impresionante, conceptos únicos, capacidad de respuesta escalable, flexibilidad increíble, 3 colores y muchas más características..."
+
+#. Theme Name of the theme
+msgid "Frontech"
+msgstr "Frontech"
+
+#: single.php:111
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: single.php:111
+msgid "Pages"
+msgstr "Páginas"
+
+#: functions.php:377
+msgid "See this %1$s documentation%2$s about adding slider in frontech theme."
+msgstr "Consulta esta %1$sdocumentación%2$s acerca de cómo añadir el carrusel en el tema Frontech."
+
+#: functions.php:305
+msgid "Length of the home blog content in words (Max Length 100)."
+msgstr "Longitud del contenido del blog de inicio en palabras (longitud máxima: 100)."
+
+#: functions.php:304
+msgid "Home Blog Content Length"
+msgstr "Longitud del contenido del blog de inicio"
+
+#: functions.php:279
+msgid "Header Menu Text Color"
+msgstr "Color de texto del menú de la cabecera"
+
+#: customizer-button/class-customize.php:77
+msgid "View Documentation"
+msgstr "Ver la documentación"
+
+#: customizer-button/class-customize.php:76
+msgid "Need Help?"
+msgstr "¿Necesitas ayuda?"
+
+#. Template Name of the theme
+msgid "Blog"
+msgstr "Blog"
+
+#: functions.php:362
+msgid "Pinterest Profile URL"
+msgstr "URL de perfil de Pinterest"
+
+#: functions.php:351
+msgid "Company Map URL"
+msgstr "URL del mapa de la empresa"
+
+#: functions.php:341
+msgid "Company Address"
+msgstr "Dirección de la empresa"
+
+#: functions.php:331
+msgid "Company Description"
+msgstr "Descripcion de la empresa"
+
+#: functions.php:321
+msgid "Show/Hide logo popup"
+msgstr "Mostrar u ocultar el mensaje emergente del logotipo"
+
+#: functions.php:320
+msgid "Logo Popup Enable"
+msgstr "Activar el mensaje emergente del logotipo"
+
+#: functions.php:245
+msgid "Header Background Color"
+msgstr "Color de fondo de la cabecera"
+
+#: functions.php:221
+msgid "Footer Background Color"
+msgstr "Color del fondo del pie de página"
+
+#: functions.php:199
+msgid "Slider Subtitle Background Color"
+msgstr "Color de fondo del subtítulo del carrusel"
+
+#: functions.php:178
+msgid "Slider Title Background Color"
+msgstr "Color de fondo del título del carrusel"
+
+#: functions.php:163
+msgid "Cyan"
+msgstr "Cian"
+
+#: functions.php:153
+msgid "Orange"
+msgstr "Naranja"
+
+#: functions.php:143
+msgid "Default"
+msgstr "Por defecto"
+
+#: functions.php:135
+msgid "Select a color scheme"
+msgstr "Selecciona un esquema de colores"
+
+#: functions.php:134
+msgid "Color scheme"
+msgstr "Esquema de color"
+
+#: functions.php:345 header.php:32
+msgid "26, Lorem Ipsum is simply dummy"
+msgstr "26, Lorem Ipsum is simply dummy"
+
+#: header.php:187
+msgid "Open in Google Maps"
+msgstr "Abrir en Google Maps"
+
+#: header.php:182
+msgid "Your Company Address"
+msgstr "La dirección de tu empresa"
+
+#: header.php:177
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: header.php:171
+msgid "Call Us"
+msgstr "Llámanos"
+
+#: header.php:72
+msgid "Email :"
+msgstr "Correo electrónico:"
+
+#: header.php:66
+msgid "Call Us :"
+msgstr "Llámanos:"
+
+#: 404.php:34
+msgid "Back To Home Page"
+msgstr "Volver a la página de inicio"
+
+#: 404.php:31
+msgid "404"
+msgstr "404"
+
+#: 404.php:15
+msgid "The Page you were looking for doesnt exist"
+msgstr "La página que estás buscando no existe."
+
+#: 404.php:15
+msgid "Ooopps.!"
+msgstr "¡Vaya!"
+
+#: single.php:155
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: single.php:124
+msgid "Next"
+msgstr "Siguiente"
+
+#: single.php:123
+msgid "Previous Post"
+msgstr "Entrada anterior"
+
+#: single.php:95 blog-content.php:67
+msgid ", "
+msgstr ", "
+
+#: single.php:88 functions.php:494 home-blog.php:114
+msgid "Edit"
+msgstr "Editar"
+
+#: single.php:88 functions.php:494 home-blog.php:114
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: single.php:88 functions.php:494 home-blog.php:114
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: single.php:88 functions.php:494 home-blog.php:114
+msgid "No Comments"
+msgstr "Sin comentarios"
+
+#: home-portfolio.php:43
+msgid "More Details"
+msgstr "Más detalles"
+
+#: home-portfolio.php:42
+msgid "View Larger"
+msgstr "Ver más grande"
+
+#: home-slider.php:46
+msgid "Lorem Ipsum is simply dummy text of the printing and industry..."
+msgstr "«Lorem Ipsum» es un texto de relleno que se usa en el sector de la imprenta y la tipografía."
+
+#: functions.php:87 functions.php:97 home-service.php:46 home-slider.php:44
+msgid "Read More"
+msgstr "Leer más"
+
+#: home-slider.php:42
+msgid "Lorem Ipsum is simply"
+msgstr "Lorem Ipsum is simply"
+
+#: functions.php:335 header.php:31
+msgid "Lorem Ipsum is simply dummy text of the printing text"
+msgstr "«Lorem Ipsum» es simplemente texto falso del texto de impresión"
+
+#. Author URI of the theme
+msgid "http://www.webhuntinfotech.com/"
+msgstr "https://www.webhuntinfotech.com/"
+
+#. Author of the theme
+msgid "WebHunt Infotech"
+msgstr "WebHunt Infotech"
